@@ -1,4 +1,4 @@
-TG3 del grupo T3
+#TG3 del grupo T3
 
 JaviOblare --> Javier Oblaré(coordinador);
 
